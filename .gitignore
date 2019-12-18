@@ -1,4 +1,4 @@
 build/
 __pycache__/
 dist/
-SerialCPF.spec
+*.spec
