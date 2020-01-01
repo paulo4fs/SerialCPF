@@ -43,7 +43,7 @@ def estado():
     9 - PA e SC;
     0 - RS.\n''')
 
-    dig9 = input('Digite o número do seu estado do CPF: ')
+    dig9 = input('Digite o número correspondente ao estado do CPF: ')
 
     if dig9 == '':
         dig9 = 99
